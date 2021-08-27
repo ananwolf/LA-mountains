@@ -1,0 +1,19 @@
+{
+  "name": "la-mountains",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ananwolf/LA-mountains.git"
+  },
+  "author": "Anan Wolf",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ananwolf/LA-mountains/issues"
+  },
+  "homepage": "https://github.com/ananwolf/LA-mountains#readme"
+}
